@@ -25,6 +25,6 @@ Instead of using sheets, depending on copy urls from historical browser url sect
 
 ### ⚞ Use LinkNexa With ChatGPT ⚟
 
-<img src="linknexa-chatgpt.png" />
+<img src="linknexa-chatgpt.jpg" />
 
 You can use the tool now for FREE, give it a try and let us know your feedback :)
