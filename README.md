@@ -14,7 +14,7 @@ It’s very convenient to save time and effort to enter the same forms inputs co
 
 ### ⚞ Use LinkNexa To Fill Form Inputs ⚟
 
-<img src="linknexa-demo1.png" />
+<img src="linknexa-demo1.jpg" />
 
 Organize and save your forms inputs in an organized menu-submenu and paste with one click.
 
