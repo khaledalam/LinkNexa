@@ -4,6 +4,9 @@
 
 Website: https://speaktextonline.com/LinkNexa
 
+Tool is available on Chrome Web Store: 
+[https://lnkd.in/gH6nMkmg](https://chrome.google.com/webstore/detail/linknexa-one-click-paste/dpcdnjokejmgaenilidhhoeknhpignld)https://chrome.google.com/webstore/detail/linknexa-one-click-paste/dpcdnjokejmgaenilidhhoeknhpignld
+
 ----
 
 Remember the content of forms inputs using one mouse click, Save time and effort to enter the same frequent forms inputs content.
@@ -28,3 +31,6 @@ Instead of using sheets, depending on copy urls from historical browser url sect
 <img src="linknexa-chatgpt.jpg" />
 
 You can use the tool now for FREE, give it a try and let us know your feedback :)
+
+Tool is available on Chrome Web Store: 
+[https://lnkd.in/gH6nMkmg](https://chrome.google.com/webstore/detail/linknexa-one-click-paste/dpcdnjokejmgaenilidhhoeknhpignld)https://chrome.google.com/webstore/detail/linknexa-one-click-paste/dpcdnjokejmgaenilidhhoeknhpignld
